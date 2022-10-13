@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Tushar
 simran
+=======
+Hi there 
+>>>>>>> 7933e78a3abd22db3d9aea4f51ef02f0b2071706
