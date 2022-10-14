@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HI there!!!
+=======
+Ha ha ha
+>>>>>>> 64bf98ebb1664ab4ab65ffb569d1b632c536d541
